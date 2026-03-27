@@ -1,0 +1,1 @@
+{ "buildcomman" :  "npm install --ignore-scripts && npm run bulid"
